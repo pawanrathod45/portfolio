@@ -2,7 +2,7 @@
 
 Modern responsive developer portfolio built with HTML, CSS, and JavaScript.
 
-🌐 **Live:** https://pawan94portfolio.vercel.app
+🌐 **Live:** https://pawan94-portfolio.vercel.app/
 
 ## Features
 
